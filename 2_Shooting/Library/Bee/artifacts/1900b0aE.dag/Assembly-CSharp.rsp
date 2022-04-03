@@ -347,6 +347,10 @@
 "Assets/Enemy_Script.cs"
 "Assets/Level_Manager.cs"
 "Assets/Player_Controller.cs"
+"Assets/Scenes/Script_Bullet.cs"
+"Assets/Scenes/Script_Enemy.cs"
+"Assets/Scenes/Script_Level_Manager.cs"
+"Assets/Scenes/Script_Player.cs"
 -langversion:9.0
 
 /deterministic
