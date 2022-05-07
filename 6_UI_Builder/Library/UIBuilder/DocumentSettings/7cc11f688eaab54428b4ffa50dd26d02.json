@@ -1,0 +1,32 @@
+{
+    "UxmlGuid": "7cc11f688eaab54428b4ffa50dd26d02",
+    "UxmlPath": "Assets/Scenes/first.uxml",
+    "CanvasX": 0,
+    "CanvasY": 0,
+    "CanvasWidth": 629,
+    "CanvasHeight": 727,
+    "MatchGameView": false,
+    "ZoomScale": 0.5,
+    "PanOffset": {
+        "x": 322.46661376953127,
+        "y": 268.666748046875
+    },
+    "ColorModeBackgroundOpacity": 1.0,
+    "ImageModeCanvasBackgroundOpacity": 1.0,
+    "CameraModeCanvasBackgroundOpacity": 1.0,
+    "EnableCanvasBackground": true,
+    "CanvasBackgroundMode": 1,
+    "CanvasBackgroundColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 255.0
+    },
+    "CanvasBackgroundImage": {
+        "fileID": 2800000,
+        "guid": "9739585fcde52884aa56c73c43c0f61a",
+        "type": 3
+    },
+    "CanvasBackgroundImageScaleMode": 1,
+    "CanvasBackgroundCameraName": ""
+}

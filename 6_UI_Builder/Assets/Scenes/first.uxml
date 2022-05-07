@@ -1,0 +1,9 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/Scenes/MyButton.uss?fileID=7433441132597879392&amp;guid=c05d5b02409f15046a04bf423b103447&amp;type=3#MyButton" />
+    <ui:VisualElement style="height: 726px; align-items: center; justify-content: center; margin-left: 200px; margin-right: 200px; margin-top: 200px; margin-bottom: 200px; background-color: rgba(135, 16, 0, 0.33); position: relative; font-size: 20px; letter-spacing: 5px; -unity-paragraph-spacing: 2px; padding-left: 7px; padding-right: 7px; padding-top: 7px; padding-bottom: 7px;">
+        <ui:Label text="Select Stage" display-tooltip-when-elided="true" name="Label" style="width: 46px; position: absolute; top: 22px; left: 46px;" />
+        <ui:Button text="Level1" display-tooltip-when-elided="true" name="Level1" class="button-style" />
+        <ui:Button text="Level2" display-tooltip-when-elided="true" name="Level2" class="button-style" />
+        <ui:Button text="Level3" display-tooltip-when-elided="true" class="button-style" />
+    </ui:VisualElement>
+</ui:UXML>

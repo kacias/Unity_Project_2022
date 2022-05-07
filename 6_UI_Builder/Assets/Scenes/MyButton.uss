@@ -1,0 +1,26 @@
+.button-style {
+    background-color: rgb(255, 0, 0);
+    color: rgb(255, 255, 255);
+    margin-left: 3px;
+    margin-right: 3px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+
+.button-style:hover {
+    background-color: rgb(218, 255, 6);
+    color: rgb(255, 255, 255);
+    margin-left: 3px;
+    margin-right: 3px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+
+.button-style:active {
+    background-color: rgb(255, 6, 255);
+    color: rgb(255, 255, 255);
+    margin-left: 3px;
+    margin-right: 3px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
